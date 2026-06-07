@@ -6,7 +6,7 @@
 
 ## Overview
 
-TaskFlow is a command-line personal task management application developed in Python while participating in Stanford Code in Place 2026 (CIP2026) and simultaneously studying Web Application Development at university.
+TaskFlow is a command-line personal task management application developed in Python while participating in Stanford Code in Place 2026 (CIP2026) and simultaneously studying Web Application Development at TES University in Guayaquil, Ecuador.
 
 The project was created to apply programming concepts learned through both academic experiences and demonstrates practical use of Python fundamentals in a real-world productivity tool.
 
