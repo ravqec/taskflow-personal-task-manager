@@ -10,6 +10,10 @@ TaskFlow is a command-line personal task management application developed in Pyt
 
 The project was created to apply programming concepts learned through both academic experiences and demonstrates practical use of Python fundamentals in a real-world productivity tool.
 
+## Screenshot
+
+![TaskFlow Main Menu](screenshot.png)
+
 ## Features
 
 - Create new tasks
